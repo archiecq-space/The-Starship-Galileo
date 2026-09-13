@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Absolute sitemap seated 6 September 2026, sitting 900.
+Sitemap: https://gemini-protocols.kimi.page/sitemap.xml
